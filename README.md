@@ -1,7 +1,7 @@
 # AY21/22 SC1015 Mini Project - Employee Attrition
 
 ## Team Members
-Team of 3 Students from Lab Group BCF2.
+Team of 3 Students from Lab Group BCF2, Team 4.
 Team Member Names:
 1. Ng Xuan Yi
 2. Fong Ye Xuan
