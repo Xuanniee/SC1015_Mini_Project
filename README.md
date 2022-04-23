@@ -5,7 +5,7 @@ Team of 3 Students from Lab Group BCF2, Team 4.
 Team Member Names:
 1. Ng Xuan Yi
 2. Fong Ye Xuan
-3. Arjun
+3. Arjun Kumar Nair
 
 ## About
 This repository is our mini project for SC1015 - Introduction to Data Science & Artificial Intelligence, which focuses on IBM HR Analytics Employee Attrition & Performance Dataset.
