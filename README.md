@@ -36,9 +36,9 @@ For a detailed walkthrough, please view our jupyter notebook from top to bottom,
 ---
 
 ## Contributors
-1. @Xuanniee
-2. @kenfyxx
-3. @arjun2000-create
+1. @Xuanniee - Multilayer Perceptron Neural Networks and Dataset Cleaning
+2. @kenfyxx - Logistics Regression and Basic Exploratory Data Analysis
+3. @arjun2000-create - Decision Trees and Removal of Outliers
 
 ## Content
 Within the repository, there are 3 files that are uploaded.
@@ -60,7 +60,6 @@ Within the repository, there are 3 files that are uploaded.
 ## Models Used
 * Logistics Regression
 * Decision Trees
-* Random Forest
 * Multilayer Percerptron Neural Networks
 
 ## Conclusion
