@@ -82,7 +82,6 @@ Within the repository, there are 3 files that are uploaded.
 * Handling of imbalanced data via Resampling of Data
 * Encoding of both Binary and Categorical Variables
 * Logistics Regression from SckitLearn
-* Random Forest from SckitLearn
 * Multilayered Perceptron Neural Network from SckitLearn
 * Github Collaboration
 
