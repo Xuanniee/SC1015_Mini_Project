@@ -37,8 +37,8 @@ For a detailed walkthrough, please view our jupyter notebook from top to bottom,
 
 ## Contributors
 1. @Xuanniee
-2. ds
-3. ds
+2. @kenfyxx
+3. @arjun2000-create
 
 ## Problem Definition
 * Which combination of factors are the most significant causes for Employee Attrition?
