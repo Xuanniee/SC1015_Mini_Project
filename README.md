@@ -40,6 +40,12 @@ For a detailed walkthrough, please view our jupyter notebook from top to bottom,
 2. @kenfyxx
 3. @arjun2000-create
 
+## Content
+Within the repository, there are 3 files that are uploaded.
+* SC1015 Project Slides contains the slides that were actually used in our video presentation.
+* notebook_SC1015.ipynb is the actual notebook that contains all of our codes.
+* train.csv is our dataset that was downloaded from Kaggle and renamed as train. It is not our Training Dataset.
+
 ## Problem Definition
 * Which combination of factors are the most significant causes for Employee Attrition?
 * How can Employee Attrition be predicted?
